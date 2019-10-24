@@ -1,0 +1,64 @@
+#cities {
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#cities td,
+#cities th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#cities tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#cities tr:hover {
+  background-color: #ddd;
+}
+
+#cities th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4caf50;
+  color: white;
+}
+body {
+  background: #485563;
+  background: -webkit-linear-gradient(to right, #29323c, #485563);
+  background: linear-gradient(to right, #29323c, #485563);
+}
+label {
+  color: rgba(0, 0, 0, 0.7);
+  font-family: Fredoka One;
+  font-size: 40px;
+}
+th {
+  background-color: rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 255, 0.8);
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.highlight {
+  background-color: orange;
+}
+input[type='text'] {
+  width: 85%;
+  padding: 20px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.container {
+  border-radius: 5px;
+  background-color: lightgrey;
+  padding: 50px;
+}
