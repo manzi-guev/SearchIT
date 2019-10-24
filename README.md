@@ -1,7 +1,6 @@
 # SearchIT
 
 [![Build Status](https://travis-ci.org/manzi-guev/SearchIT.svg?branch=master)](https://travis-ci.org/manzi-guev/SearchIT)
-
 <a href="https://codeclimate.com/github/manzi-guev/SearchIT/maintainability"><img src="https://api.codeclimate.com/v1/badges/1d893dd95e706fee9237/maintainability" /></a>
 
 ### What is SearchIT?
